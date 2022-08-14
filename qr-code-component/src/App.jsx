@@ -2,9 +2,7 @@ const { default: QRCode } = require("./components/QRCode")
 
 const App = () => {
   return (
-    <>
-      <QRCode />
-    </>
+    <QRCode />
   );
 }
 
