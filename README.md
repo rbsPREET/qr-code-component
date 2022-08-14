@@ -6,7 +6,7 @@
 
 ### Links
 
-- Live Site URL: [QR-Code-Component](https://your-live-site-url.com)
+- Live Site URL: [QR-Code-Component](https://rbs-qr-code-component.netlify.app/)
 
 ## My process
 
